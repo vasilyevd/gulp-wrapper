@@ -23,6 +23,9 @@
     "type": "git",
     "url": "https://github.com/vasilyevd/gulp-wrapper.git"
   },
+  "publishConfig": {
+      "@vasilyevd:registry": "https://npm.pkg.github.com"
+  },
   "license": "MIT",
   "dependencies": {
     "through2": "^4.0.2",
