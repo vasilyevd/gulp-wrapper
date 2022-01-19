@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vasilyevd/gulp-wrapper.git"
+    "url": "git://github.com/vasilyevd/gulp-wrapper.git"
   },
   "publishConfig": {
-      "@vasilyevd:registry": "https://npm.pkg.github.com"
+    "@vasilyevd:registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "dependencies": {
